@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+body {
+  /* comment */
+  color: red\0;
+  color: red\0/;
+  _color: red;
+}
+
+/* { } */
+.content li, .content a {
+  *display: inline-block;
+}
+
+@media screen {
+  body { font-size: 13px }
+
+  .content li {
+    background-color: #fff;
+    background: url('http://baidu.com/a.png');
+  }
+}
+
+@keyframes foo {
+  0% { top: 0; left: 0 }
+  100% { top: 100px; left: 100% }
+}
+
+:root .content {
+    font-size: 12px;
+}
