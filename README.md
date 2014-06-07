@@ -38,9 +38,7 @@ a {
 }
 
 // yield
-.container a {
-  border: none; 
-}
+.container a{border: none;}
 ```
 
 With code
