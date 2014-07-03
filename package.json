@@ -4,7 +4,7 @@
   "description": "transform css to string that can be inserted by js",
   "main": "index",
   "dependencies": {
-    "css": "~1.6.0"
+    "css": "~2.0.0"
   },
   "devDependencies": {
     "coveralls": "~2.10.0",
