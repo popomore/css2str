@@ -1,6 +1,6 @@
 {
   "name": "css2str",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "transform css to string that can be inserted by js",
   "main": "index",
   "dependencies": {
